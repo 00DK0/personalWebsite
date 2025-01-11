@@ -262,7 +262,7 @@ textarea {
   --contentbgDarkBlue: #2d333fdf;
   --contentbgLightBlue: #374455df;
 
-  --bgImage: url("/images/pxfuel.JPG");
+  --bgImage: url("../images/pxfuel.JPG");
 
   --contentContainerPadding: 5px;
   --contentContainerTopMargin: 1vh;
@@ -293,7 +293,7 @@ textarea {
 
 @font-face {
   font-family: "myFont";
-  src: url("/fonts/eurostile.TTF") format("truetype");
+  src: url("../fonts/eurostile.TTF") format("truetype");
   font-weight: normal;
   font-style: normal;
 }

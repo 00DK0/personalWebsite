@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36fb0bc3-0905-41ef-b2b2-493b11dce08e" name="Changes" comment="Hobby description update&#10;Profile picture added">
-      <change beforePath="$PROJECT_DIR$/Texts/Hobbies/hobbySportText1" beforeDir="false" afterPath="$PROJECT_DIR$/Texts/Hobbies/hobbySportText1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="36fb0bc3-0905-41ef-b2b2-493b11dce08e" name="Changes" comment="Hobby description update&#10;Profile picture added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +48,7 @@
       <workItem from="1736610911592" duration="643000" />
       <workItem from="1736680992425" duration="1628000" />
       <workItem from="1740052310987" duration="5108000" />
+      <workItem from="1741616016968" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="../">
       <option name="closed" value="true" />

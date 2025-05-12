@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36fb0bc3-0905-41ef-b2b2-493b11dce08e" name="Changes" comment="Hobby description update&#10;Profile picture added" />
+    <list default="true" id="36fb0bc3-0905-41ef-b2b2-493b11dce08e" name="Changes" comment="age &amp; semester update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texts/Hobbies/hobbyKartText1" beforeDir="false" afterPath="$PROJECT_DIR$/Texts/Hobbies/hobbyKartText1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LeonJ/Sonstiges/websites/old/personalWebsite&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LeonJ/Downloads/IT_Lab&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,6 +52,27 @@
       <workItem from="1736680992425" duration="1628000" />
       <workItem from="1740052310987" duration="5108000" />
       <workItem from="1741616016968" duration="270000" />
+      <workItem from="1741984989492" duration="82000" />
+      <workItem from="1742233868862" duration="591000" />
+      <workItem from="1743082743112" duration="2821000" />
+      <workItem from="1743167412982" duration="1784000" />
+      <workItem from="1743428612737" duration="8000" />
+      <workItem from="1743599129253" duration="3513000" />
+      <workItem from="1743692545160" duration="1203000" />
+      <workItem from="1744641524871" duration="259000" />
+      <workItem from="1744726616310" duration="205000" />
+      <workItem from="1745260382669" duration="117000" />
+      <workItem from="1745412604617" duration="7572000" />
+      <workItem from="1745494406139" duration="2682000" />
+      <workItem from="1745518680342" duration="3000" />
+      <workItem from="1745591379854" duration="3655000" />
+      <workItem from="1745847918596" duration="440000" />
+      <workItem from="1745848546450" duration="451000" />
+      <workItem from="1745849011704" duration="2620000" />
+      <workItem from="1745937300114" duration="442000" />
+      <workItem from="1745943624194" duration="317000" />
+      <workItem from="1746300817109" duration="661000" />
+      <workItem from="1747051287224" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="../">
       <option name="closed" value="true" />
@@ -82,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740064641881</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="age &amp; semester update">
+      <option name="closed" value="true" />
+      <created>1741985035481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741985035481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +124,7 @@
     <MESSAGE value="../" />
     <MESSAGE value="lower case fix background img" />
     <MESSAGE value="Hobby description update&#10;Profile picture added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hobby description update&#10;Profile picture added" />
+    <MESSAGE value="age &amp; semester update" />
+    <option name="LAST_COMMIT_MESSAGE" value="age &amp; semester update" />
   </component>
 </project>
